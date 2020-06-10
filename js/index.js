@@ -97,7 +97,7 @@ $(document).ready(function() {
         // 参数不为空时呈现动态
         // 更新输入框与提示框内容
         $("#search-input").val("");
-        $("#tip1").text("其实找资料特别简单呢");
+        $("#tip1").text("其实你不用问我");
         $("#tip2").text("跟着我一起输入你想知道的问题");
         // 获取输入框与按钮的位置
         input_offest = $("#search-input").offset();
